@@ -3,7 +3,7 @@ Create Html Project Template from CLI
 <br>
 <br>
 
-# Doownload & Extract "bin.rar"
+## Download & Extract "bin.rar"
 # Add bin Directory As Path Variable
 # Run create-web-app <app-name> in CLI
 <br>
